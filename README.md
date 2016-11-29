@@ -1,2 +1,2 @@
-# client-pre-interview
-User interface for pre-interview application
+# client-pre-screen
+User interface for pre-screen application
